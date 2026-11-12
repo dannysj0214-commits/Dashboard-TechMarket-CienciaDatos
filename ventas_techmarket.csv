@@ -1,0 +1,503 @@
+id_venta,fecha,ciudad,categoria,producto,cantidad,precio_unitario,costo_unitario
+1,13/04/2026,Cali,Hogar,Cafetera,8,226820.0,158774.0
+2,13/04/2026,Cali,Accesorios,Cable HDMI,8,44131.0,30891.699999999997
+3,14/04/2026,Cartagena,Hogar,Aspiradora,2,209735.0,146814.5
+4,07/06/2026,Barranquilla,Accesorios,Teclado Mecánico,5,83104.0,58172.799999999996
+5,27/02/2026,Barranquilla,Accesorios,Mouse Inalámbrico,9,25658.0,17960.6
+6,19/06/2026,Cali,Hogar,Aspiradora,7,216803.0,151762.09999999998
+7,05/03/2026,Cartagena,Electrónica,Audífonos Bluetooth,3,791606.0,554124.2
+8,21/01/2026,Medellín,Electrónica,Audífonos Bluetooth,4,758792.0,531154.4
+9,01/03/2026,Medellín,Accesorios,Teclado Mecánico,9,23897.0,16727.899999999998
+10,22/02/2026,Barranquilla,Accesorios,Cable HDMI,7,48555.0,33988.5
+11,08/01/2026,Bogotá,Computación,Disco Duro 1TB,4,,1061984.7
+12,14/04/2026,Medellín,Hogar,Licuadora,4,190757.0,133529.9
+13,26/05/2026,Medellín,Accesorios,Teclado Mecánico,4,32606.0,22824.199999999997
+14,17/02/2026,Barranquilla,Computación,"Monitor 24""",9,1539789.0,1077852.3
+15,09/02/2026,Medellín,Electrónica,"Smart TV 55""",5,836807.0,585764.8999999999
+16,03/06/2026,Bogotá,Electrónica,"Smart TV 55""",1,798984.0,559288.7999999999
+17,12/03/2026,Barranquilla,Electrónica,"Smart TV 55""",8,798190.0,558733.0
+18,19/05/2026,Cali,Computación,Laptop HP,3,1462666.0,1023866.2
+19,05/01/2026,Medellín,Accesorios,Cable HDMI,9,52251.0,36575.7
+20,15/05/2026,Bogotá,Electrónica,Barra de Sonido,7,785222.0,549655.4
+21,03/03/2026,,Hogar,Cafetera,8,160965.0,112675.5
+22,04/02/2026,Cartagena,Electrónica,Audífonos Bluetooth,3,802992.0,562094.3999999999
+23,05/01/2026,Cali,Accesorios,Cable HDMI,9,206.0,144.2
+24,15/01/2026,Barranquilla,Accesorios,Teclado Mecánico,3,50015.0,35010.5
+25,21/02/2026,Cartagena,Electrónica,Barra de Sonido,7,821910.0,575337.0
+26,23/05/2026,Barranquilla,Computación,Laptop HP,7,1525450.0,1067815.0
+27,27/03/2026,Medellín,Hogar,Licuadora,9,152693.0,106885.09999999999
+28,28/01/2026,Cali,Hogar,Licuadora,7,165707.0,115994.9
+29,09/05/2026,Bogotá,Electrónica,Audífonos Bluetooth,4,805016.0,563511.2
+30,03/01/2026,Cali,Computación,"Monitor 24""",9,1453748.0,1017623.6
+31,2026-13-45,Cali,Accesorios,Cable HDMI,6,61087.0,42760.899999999994
+32,06/04/2026,Barranquilla,Hogar,Cafetera,1,201005.0,140703.5
+33,21/02/2026,Medellín,Hogar,Licuadora,3,173664.0,121564.79999999999
+34,11/04/2026,Cali,Electrónica,"Smart TV 55""",1,844209.0,590946.2999999999
+35,10/05/2026,Cartagena,Hogar,Licuadora,1,205680.0,143976.0
+36,27/05/2026,Cartagena,Accesorios,Teclado Mecánico,6,87455.0,61218.49999999999
+37,09/03/2026,Cali,Computación,Disco Duro 1TB,1,1475342.0,1032739.3999999999
+38,07/02/2026,Barranquilla,Hogar,Cafetera,2,215733.0,151013.09999999998
+39,19/05/2026,Bogotá,Computación,Laptop HP,6,1501663.0,1051164.0999999999
+40,03/04/2026,Barranquilla,Computación,Disco Duro 1TB,3,1484754.0,1039327.7999999999
+41,27/05/2026,Barranquilla,Hogar,Aspiradora,9,234896.0,164427.19999999998
+42,17/06/2026,Medellín,Hogar,Aspiradora,8,187504.0,131252.8
+43,11/01/2026,Bogotá,Hogar,Cafetera,2,197254.0,138077.8
+44,08/06/2026,Cali,Accesorios,Teclado Mecánico,7,46843.0,32790.1
+45,24/05/2026,Barranquilla,Accesorios,Mouse Inalámbrico,1,2049.0,1434.3
+46,09/05/2026,Barranquilla,Hogar,Licuadora,5,179855.0,125898.49999999999
+47,09/01/2026,Cali,Electrónica,Audífonos Bluetooth,3,754499.0,528149.2999999999
+48,01/06/2026,Barranquilla,Accesorios,Mouse Inalámbrico,1,32711.0,22897.699999999997
+49,13/06/2026,Cali,Accesorios,Teclado Mecánico,9,82018.0,57412.6
+50,02/06/2026,Medellín,Electrónica,Barra de Sonido,2,752869.0,527008.2999999999
+51,12/06/2026,Bogotá,Hogar,Cafetera,4,240272.0,168190.4
+52,09/03/2026,Cartagena,Electrónica,Barra de Sonido,4,808871.0,566209.7
+53,08/05/2026,Cali,Hogar,Aspiradora,1,220271.0,154189.69999999998
+54,02/02/2026,Cali,Hogar,Aspiradora,6,169830.0,118880.99999999999
+55,22/01/2026,Cartagena,Accesorios,Teclado Mecánico,3,76213.0,53349.1
+56,08/01/2026,Medellín,Computación,Disco Duro 1TB,5,1504045.0,1052831.5
+57,07/04/2026,Bogotá,Hogar,Aspiradora,5,243179.0,170225.3
+58,02/03/2026,Barranquilla,Hogar,Aspiradora,3,223744.0,156620.8
+59,21/06/2026,Cartagena,Hogar,Licuadora,5,193525.0,135467.5
+60,09/04/2026,Cartagena,Hogar,Cafetera,8,153420.0,107394.0
+61,15/02/2026,Cali,Electrónica,Audífonos Bluetooth,1,815726.0,571008.2
+62,09/06/2026,Cali,Computación,Laptop HP,2,1484584.0,1039208.7999999999
+63,23/02/2026,Medellín,Accesorios,Cable HDMI,6,18070.0,12649.0
+64,07/05/2026,Medellín,Computación,"Monitor 24""",1,1477751.0,1034425.7
+65,10/06/2026,Cartagena,Electrónica,Audífonos Bluetooth,7,799689.0,559782.2999999999
+66,09/04/2026,Cartagena,Accesorios,Mouse Inalámbrico,7,89912.0,62938.399999999994
+67,05/02/2026,Barranquilla,Electrónica,"Smart TV 55""",3,805766.0,564036.2
+68,23/05/2026,Medellín,Hogar,Licuadora,7,249157.0,174409.9
+69,20/02/2026,Cartagena,Electrónica,Barra de Sonido,6,805609.0,563926.2999999999
+70,27/02/2026,Barranquilla,Accesorios,Mouse Inalámbrico,6,53006.0,37104.2
+71,23/02/2026,Bogotá,Computación,Laptop HP,8,1469508.0,1028655.6
+72,01/03/2026,Barranquilla,Hogar,Cafetera,6,216412.0,151488.4
+73,26/04/2026,Cali,Accesorios,Cable HDMI,7,72615.0,50830.5
+74,21/02/2026,Medellín,Hogar,Cafetera,3,236672.0,165670.4
+75,30/04/2026,Barranquilla,Computación,Disco Duro 1TB,7,1475945.0,1033161.4999999999
+76,27/04/2026,Bogotá,Accesorios,Cable HDMI,5,66617.0,46631.899999999994
+77,02/05/2026,Medellín,Electrónica,Audífonos Bluetooth,6,770056.0,539039.2
+78,27/04/2026,Cartagena,Electrónica,"Smart TV 55""",6,809638.0,566746.6
+79,17/03/2026,Cartagena,Accesorios,Cable HDMI,6,84664.0,59264.799999999996
+80,29/01/2026,Bogotá,Accesorios,Mouse Inalámbrico,4,29124.0,20386.8
+81,24/05/2026,Cartagena,Accesorios,Teclado Mecánico,7,91747.0,64222.899999999994
+82,02/02/2026,Cartagena,Accesorios,Teclado Mecánico,7,23049.0,16134.3
+83,10/03/2026,Barranquilla,Hogar,Licuadora,3,159823.0,111876.09999999999
+84,01/01/2026,Cartagena,Hogar,Cafetera,4,177663.0,124364.09999999999
+85,24/01/2026,Medellín,Hogar,Aspiradora,1,199115.0,139380.5
+86,08/05/2026,Barranquilla,Hogar,Aspiradora,8,209275.0,146492.5
+87,27/06/2026,Bogotá,Computación,Laptop HP,3,1543610.0,1080527.0
+88,11/04/2026,Bogotá,Hogar,Aspiradora,1,219449.0,153614.3
+89,12/02/2026,Cartagena,Hogar,Cafetera,2,247532.0,173272.4
+90,04/02/2026,Medellín,Computación,Laptop HP,8,1538668.0,1077067.5999999999
+91,03/06/2026,Medellín,Accesorios,Teclado Mecánico,3,20358.0,14250.599999999999
+92,27/02/2026,Cartagena,Electrónica,Barra de Sonido,8,783496.0,548447.2
+93,21/01/2026,Barranquilla,Electrónica,"Smart TV 55""",5,768888.0,538221.6
+94,01/06/2026,Bogotá,Hogar,Aspiradora,3,235999.0,165199.3
+95,05/02/2026,Cartagena,Accesorios,Mouse Inalámbrico,1,20150.0,14105.0
+96,13/01/2026,Cali,Computación,Laptop HP,9,1505069.0,1053548.3
+97,17/01/2026,Barranquilla,Electrónica,Barra de Sonido,9,800517.0,560361.8999999999
+98,21/05/2026,Bogotá,Computación,Disco Duro 1TB,4,1466779.0,1026745.2999999999
+99,27/05/2026,Barranquilla,Hogar,Cafetera,4,204098.0,142868.59999999998
+100,21/04/2026,Cartagena,Hogar,Cafetera,3,239112.0,167378.4
+101,29/06/2026,Barranquilla,Computación,Laptop HP,5,1510566.0,1057396.2
+102,24/05/2026,Cartagena,Electrónica,Audífonos Bluetooth,5,771545.0,540081.5
+103,16/06/2026,Medellín,Accesorios,Cable HDMI,5,23714.0,16599.8
+104,16/03/2026,Barranquilla,Accesorios,Cable HDMI,9,23625.0,16537.5
+105,25/05/2026,Cartagena,Electrónica,Barra de Sonido,8,789081.0,552356.7
+106,17/05/2026,Medellín,Accesorios,Cable HDMI,2,83460.0,58421.99999999999
+107,29/01/2026,Cali,Electrónica,Barra de Sonido,8,763807.0,534664.9
+108,19/04/2026,Barranquilla,Electrónica,Barra de Sonido,1,807854.0,565497.7999999999
+109,12/03/2026,Barranquilla,Electrónica,"Smart TV 55""",4,785909.0,550136.2999999999
+110,08/06/2026,Barranquilla,Computación,Laptop HP,6,1476790.0,1033752.9999999999
+111,01/04/2026,Cali,Accesorios,Teclado Mecánico,7,15485.0,10839.5
+112,22/06/2026,Barranquilla,Electrónica,Barra de Sonido,4,805771.0,564039.7
+113,02/03/2026,Bogotá,Computación,Laptop HP,3,1530219.0,1071153.3
+114,23/04/2026,Cartagena,Electrónica,"Smart TV 55""",6,817641.0,572348.7
+115,13/02/2026,Cartagena,Electrónica,"Smart TV 55""",5,770559.0,539391.2999999999
+116,28/04/2026,Barranquilla,Electrónica,Audífonos Bluetooth,5,841362.0,588953.3999999999
+117,27/05/2026,Medellín,Hogar,Cafetera,9,202528.0,141769.59999999998
+118,14/01/2026,Bogotá,Computación,Disco Duro 1TB,5,1518866.0,1063206.2
+119,24/05/2026,Cali,Computación,Laptop HP,8,1540469.0,1078328.3
+120,01/06/2026,Medellín,Hogar,Cafetera,4,211529.0,148070.3
+121,16/05/2026,Barranquilla,Accesorios,Teclado Mecánico,5,4835.0,3384.5
+122,04/06/2026,Bogotá,Accesorios,Cable HDMI,9,78752.0,55126.399999999994
+123,06/06/2026,Cali,Electrónica,Barra de Sonido,6,755713.0,528999.1
+124,25/04/2026,Bogotá,Hogar,Cafetera,2,215545.0,150881.5
+125,25/02/2026,Cali,Accesorios,Teclado Mecánico,5,1015.0,710.5
+126,02/02/2026,Medellín,Accesorios,Mouse Inalámbrico,1,62292.0,43604.399999999994
+127,26/01/2026,Cali,Computación,Laptop HP,1,1496540.0,1047577.9999999999
+128,10/06/2026,Cali,Accesorios,Mouse Inalámbrico,1,404.0,282.79999999999995
+129,24/02/2026,Cartagena,Accesorios,Mouse Inalámbrico,5,80642.0,56449.399999999994
+130,23/01/2026,Cartagena,Electrónica,"Smart TV 55""",3,763456.0,534419.2
+131,26/03/2026,Bogotá,Accesorios,Mouse Inalámbrico,3,53932.0,37752.399999999994
+132,04/01/2026,Bogotá,Accesorios,Mouse Inalámbrico,8,92193.0,64535.1
+133,02/04/2026,Medellín,Computación,Disco Duro 1TB,2,1511877.0,1058313.9
+134,28/04/2026,Medellín,Computación,Disco Duro 1TB,1,1523963.0,1066774.0999999999
+135,13/05/2026,Cali,Accesorios,Teclado Mecánico,9,88464.0,61924.799999999996
+136,22/04/2026,Cartagena,Computación,Disco Duro 1TB,5,1527709.0,1069396.3
+137,07/03/2026,Barranquilla,Computación,Disco Duro 1TB,2,1456949.0,1019864.2999999999
+138,19/02/2026,Cali,Accesorios,Teclado Mecánico,3,61886.0,43320.2
+139,21/02/2026,Bogotá,Electrónica,Barra de Sonido,8,792318.0,554622.6
+140,30/01/2026,Cali,Computación,"Monitor 24""",1,1489811.0,1042867.7
+141,18/05/2026,Medellín,Hogar,Cafetera,1,169963.0,118974.09999999999
+142,25/03/2026,Medellín,Hogar,Cafetera,6,164388.0,115071.59999999999
+143,06/05/2026,Cali,Computación,Disco Duro 1TB,3,1456254.0,1019377.7999999999
+144,31/05/2026,Cali,Computación,Disco Duro 1TB,6,1472415.0,1030690.4999999999
+145,08/01/2026,Cali,Hogar,Cafetera,3,183434.0,128403.79999999999
+146,03/04/2026,Cartagena,Hogar,Licuadora,3,173954.0,121767.79999999999
+147,21/01/2026,Barranquilla,Electrónica,Barra de Sonido,6,829252.0,580476.3999999999
+148,11/03/2026,Bogotá,Electrónica,"Smart TV 55""",2,841865.0,589305.5
+149,14/02/2026,Medellín,Computación,Laptop HP,9,1472574.0,1030801.7999999999
+150,01/05/2026,Cali,Accesorios,Cable HDMI,1,95257.0,66679.9
+151,05/02/2026,Cali,Electrónica,"Smart TV 55""",4,750302.0,525211.4
+152,07/05/2026,Medellín,Hogar,Licuadora,7,217661.0,152362.69999999998
+153,10/05/2026,Cali,Electrónica,Barra de Sonido,8,755126.0,528588.2
+154,03/01/2026,Cali,Computación,Disco Duro 1TB,2,1538869.0,1077208.3
+155,25/04/2026,Cartagena,Computación,Laptop HP,7,1500448.0,1050313.5999999999
+156,27/03/2026,Barranquilla,Accesorios,Teclado Mecánico,9,3596.0,2517.2
+157,25/01/2026,Cali,Hogar,Licuadora,9,176734.0,123713.79999999999
+158,21/04/2026,Bogotá,Accesorios,Teclado Mecánico,3,81449.0,57014.299999999996
+159,18/06/2026,Barranquilla,Electrónica,Barra de Sonido,2,825703.0,577992.1
+160,28/02/2026,Cartagena,Electrónica,Barra de Sonido,9,808656.0,566059.2
+161,30/05/2026,Barranquilla,Electrónica,Barra de Sonido,8,777446.0,544212.2
+162,17/05/2026,Cali,Computación,Disco Duro 1TB,8,1454324.0,1018026.7999999999
+163,05/02/2026,Medellín,Hogar,Aspiradora,4,229579.0,160705.3
+164,16/03/2026,Bogotá,Hogar,Aspiradora,8,163234.0,114263.79999999999
+165,03/03/2026,Cali,Electrónica,Barra de Sonido,8,796514.0,557559.7999999999
+166,22/06/2026,Medellín,Hogar,Cafetera,6,214323.0,150026.09999999998
+167,19/01/2026,Barranquilla,Hogar,Cafetera,1,217584.0,152308.8
+168,31/03/2026,Cartagena,Accesorios,Teclado Mecánico,4,47362.0,33153.4
+169,10/06/2026,Medellín,Accesorios,Teclado Mecánico,5,87958.0,61570.6
+170,18/05/2026,Cartagena,Hogar,Licuadora,8,184387.0,129070.9
+171,06/03/2026,Bogotá,Computación,Laptop HP,1,1543070.0,1080149.0
+172,01/06/2026,Cali,Accesorios,Cable HDMI,1,83524.0,58466.799999999996
+173,03/03/2026,Cartagena,Hogar,Licuadora,8,220792.0,154554.4
+174,11/06/2026,Cali,Hogar,Aspiradora,1,155415.0,108790.5
+175,05/03/2026,Cali,Accesorios,Mouse Inalámbrico,9,58596.0,41017.2
+176,14/01/2026,Cali,Hogar,Licuadora,5,165524.0,115866.79999999999
+177,05/01/2026,Medellín,Computación,Disco Duro 1TB,4,1466984.0,1026888.7999999999
+178,11/02/2026,Cali,Electrónica,Barra de Sonido,6,821520.0,575064.0
+179,23/01/2026,Bogotá,Computación,Disco Duro 1TB,9,1517728.0,1062409.5999999999
+180,22/02/2026,Cali,Hogar,Aspiradora,6,204917.0,143441.9
+181,08/03/2026,Medellín,Computación,Disco Duro 1TB,4,1530910.0,1071637.0
+182,21/04/2026,Barranquilla,Electrónica,"Smart TV 55""",7,750922.0,525645.4
+183,13/06/2026,Bogotá,Electrónica,Barra de Sonido,1,794028.0,555819.6
+184,04/06/2026,Barranquilla,Computación,Laptop HP,6,1509201.0,1056440.7
+185,10/01/2026,Medellín,Electrónica,Audífonos Bluetooth,1,796197.0,557337.8999999999
+186,07/02/2026,Barranquilla,Electrónica,Audífonos Bluetooth,8,814435.0,570104.5
+187,15/01/2026,Cartagena,Electrónica,"Smart TV 55""",4,753756.0,527629.2
+188,10/05/2026,Cali,Computación,Disco Duro 1TB,3,1525683.0,1067978.0999999999
+189,05/02/2026,Cali,Accesorios,Cable HDMI,5,71315.0,49920.5
+190,11/01/2026,Medellín,Accesorios,Teclado Mecánico,8,17368.0,12157.599999999999
+191,21/04/2026,Barranquilla,Hogar,Aspiradora,4,230879.0,161615.3
+192,09/03/2026,Medellín,Electrónica,"Smart TV 55""",1,815310.0,570717.0
+193,02/05/2026,Cali,Electrónica,Barra de Sonido,8,818904.0,573232.7999999999
+194,11/01/2026,Cartagena,Computación,Laptop HP,5,1451645.0,1016151.4999999999
+195,13/06/2026,Bogotá,Accesorios,Cable HDMI,1,53173.0,37221.1
+196,24/02/2026,Cartagena,Computación,Disco Duro 1TB,9,1525060.0,1067542.0
+197,17/05/2026,Cartagena,Accesorios,Mouse Inalámbrico,9,40738.0,28516.6
+198,04/03/2026,Medellín,Hogar,Cafetera,6,158577.0,111003.9
+199,15/05/2026,Medellín,Accesorios,Cable HDMI,1,6783.0,4748.099999999999
+200,20/06/2026,Cali,Computación,Disco Duro 1TB,6,1517526.0,1062268.2
+201,29/06/2026,Bogotá,Accesorios,Mouse Inalámbrico,1,37148.0,26003.6
+202,04/03/2026,Medellín,Computación,"Monitor 24""",2,1477696.0,1034387.2
+203,22/03/2026,Bogotá,Hogar,Cafetera,4,202853.0,141997.09999999998
+204,27/03/2026,Cartagena,Hogar,Aspiradora,8,170806.0,119564.2
+205,01/01/2026,Cali,Hogar,Cafetera,8,208066.0,145646.19999999998
+206,03/03/2026,Cartagena,Hogar,Licuadora,1,236444.0,165510.8
+207,30/01/2026,Medellín,Hogar,Aspiradora,1,214077.0,149853.9
+208,25/04/2026,Medellín,Computación,"Monitor 24""",6,1488000.0,1041599.9999999999
+209,24/04/2026,Cali,Accesorios,Teclado Mecánico,4,55168.0,38617.6
+210,08/01/2026,Cali,Electrónica,Audífonos Bluetooth,3,825629.0,577940.2999999999
+211,11/06/2026,Barranquilla,Hogar,Cafetera,2,235382.0,164767.4
+212,03/04/2026,Bogotá,Hogar,Cafetera,7,205106.0,143574.19999999998
+213,13/03/2026,Cartagena,Accesorios,Mouse Inalámbrico,3,39986.0,27990.199999999997
+214,07/04/2026,Medellín,Hogar,Aspiradora,3,184911.0,129437.7
+215,29/03/2026,Cali,Accesorios,Teclado Mecánico,4,54771.0,38339.7
+216,14/06/2026,Medellín,Accesorios,Mouse Inalámbrico,7,4425.0,3097.5
+217,07/01/2026,Cartagena,Electrónica,Audífonos Bluetooth,3,770079.0,539055.2999999999
+218,05/05/2026,Barranquilla,Computación,Laptop HP,2,1458705.0,1021093.4999999999
+219,09/05/2026,Barranquilla,Computación,Laptop HP,2,1544914.0,1081439.8
+220,29/04/2026,Cartagena,Hogar,Cafetera,6,151279.0,105895.29999999999
+221,17/05/2026,Barranquilla,Accesorios,Mouse Inalámbrico,3,17771.0,12439.699999999999
+222,24/01/2026,Cali,Electrónica,Barra de Sonido,7,836143.0,585300.1
+223,24/04/2026,Bogotá,Computación,Laptop HP,8,1549608.0,1084725.5999999999
+224,13/04/2026,Cali,Electrónica,Barra de Sonido,4,805961.0,564172.7
+225,29/01/2026,Cartagena,Electrónica,Barra de Sonido,6,847425.0,593197.5
+226,08/05/2026,Barranquilla,Electrónica,Barra de Sonido,9,781653.0,547157.1
+227,03/02/2026,Bogotá,Electrónica,"Smart TV 55""",6,828411.0,579887.7
+228,28/03/2026,Cartagena,Electrónica,Barra de Sonido,9,831182.0,581827.3999999999
+229,14/05/2026,Barranquilla,Computación,"Monitor 24""",9,1497924.0,1048546.7999999999
+230,18/05/2026,Medellín,Electrónica,"Smart TV 55""",5,839563.0,587694.1
+231,02/05/2026,Barranquilla,Accesorios,Teclado Mecánico,6,61120.0,42784.0
+232,20/02/2026,Medellín,Electrónica,Audífonos Bluetooth,5,803002.0,562101.3999999999
+233,09/02/2026,Cali,Computación,Laptop HP,7,1546999.0,1082899.3
+234,23/02/2026,Cartagena,Accesorios,Cable HDMI,8,21792.0,15254.4
+235,05/02/2026,Cali,Computación,Disco Duro 1TB,4,1465850.0,1026094.9999999999
+236,22/03/2026,Cartagena,Accesorios,Cable HDMI,2,47304.0,33112.799999999996
+237,03/06/2026,Bogotá,Accesorios,Mouse Inalámbrico,9,35111.0,24577.699999999997
+238,17/01/2026,Cartagena,Electrónica,"Smart TV 55""",8,805337.0,563735.8999999999
+239,25/01/2026,Cali,Computación,Disco Duro 1TB,2,1484020.0,1038813.9999999999
+240,18/04/2026,Medellín,Hogar,Aspiradora,3,241748.0,169223.59999999998
+241,13/02/2026,Bogotá,Computación,Disco Duro 1TB,1,1499481.0,1049636.7
+242,26/02/2026,Barranquilla,Computación,Laptop HP,8,1450338.0,1015236.6
+243,08/01/2026,Bogotá,Computación,Laptop HP,7,1504756.0,1053329.2
+244,28/04/2026,Bogotá,Hogar,Licuadora,2,212552.0,148786.4
+245,12/01/2026,Medellín,Computación,Disco Duro 1TB,9,1477935.0,1034554.4999999999
+246,10/01/2026,Bogotá,Hogar,Aspiradora,7,237833.0,166483.09999999998
+247,27/03/2026,Cartagena,Accesorios,Cable HDMI,7,69768.0,48837.6
+248,25/04/2026,Cali,Hogar,Licuadora,7,249804.0,174862.8
+249,23/03/2026,Barranquilla,Computación,"Monitor 24""",7,1469426.0,1028598.2
+250,26/05/2026,Bogotá,Computación,"Monitor 24""",8,1485435.0,1039804.4999999999
+251,14/02/2026,Cartagena,Accesorios,Cable HDMI,8,97241.0,68068.7
+252,18/04/2026,Bogotá,Computación,Disco Duro 1TB,4,1504620.0,1053234.0
+253,02/06/2026,Bogotá,Electrónica,Barra de Sonido,2,824038.0,576826.6
+254,19/06/2026,Cali,Accesorios,Teclado Mecánico,7,75532.0,52872.399999999994
+255,21/05/2026,Cali,Accesorios,Cable HDMI,7,16371.0,11459.699999999999
+256,29/01/2026,Cartagena,Accesorios,Mouse Inalámbrico,5,62187.0,43530.899999999994
+257,16/01/2026,Bogotá,Hogar,Aspiradora,9,174574.0,122201.79999999999
+258,13/04/2026,Bogotá,Hogar,Cafetera,1,152050.0,106435.0
+259,22/06/2026,Medellín,Accesorios,Teclado Mecánico,4,32913.0,23039.1
+260,06/02/2026,Cartagena,Electrónica,"Smart TV 55""",9,754494.0,528145.7999999999
+261,18/02/2026,Medellín,Electrónica,Audífonos Bluetooth,5,795028.0,556519.6
+262,20/06/2026,Cali,Hogar,Licuadora,2,198280.0,138796.0
+263,21/02/2026,Barranquilla,Hogar,Aspiradora,6,191844.0,134290.8
+264,20/04/2026,Medellín,Accesorios,Cable HDMI,9,82856.0,57999.2
+265,03/01/2026,Cartagena,Hogar,Licuadora,5,223781.0,156646.69999999998
+266,16/02/2026,Bogotá,Computación,Laptop HP,3,1512483.0,1058738.0999999999
+267,02/05/2026,Cali,Electrónica,"Smart TV 55""",3,775425.0,542797.5
+268,03/03/2026,Cali,Electrónica,Audífonos Bluetooth,6,804028.0,562819.6
+269,30/04/2026,Bogotá,Electrónica,Audífonos Bluetooth,9,784701.0,549290.7
+270,11/04/2026,Bogotá,Accesorios,Cable HDMI,8,23874.0,16711.8
+271,03/05/2026,Bogotá,Hogar,Cafetera,3,238801.0,167160.69999999998
+272,17/03/2026,Bogotá,Accesorios,Mouse Inalámbrico,5,58762.0,41133.399999999994
+273,04/05/2026,Cali,Computación,"Monitor 24""",5,1520831.0,1064581.7
+274,31/03/2026,Cartagena,Accesorios,Teclado Mecánico,5,86988.0,60891.6
+275,22/03/2026,Cartagena,Accesorios,Mouse Inalámbrico,3,19129.0,13390.3
+276,08/03/2026,Cali,Hogar,Licuadora,1,236231.0,165361.69999999998
+277,27/05/2026,Cali,Hogar,Cafetera,9,183130.0,128190.99999999999
+278,14/02/2026,Medellín,Electrónica,"Smart TV 55""",4,836206.0,585344.2
+279,04/06/2026,Cartagena,Accesorios,Cable HDMI,9,49138.0,34396.6
+280,31/01/2026,Medellín,Computación,"Monitor 24""",5,1486509.0,1040556.2999999999
+281,08/02/2026,Barranquilla,Computación,"Monitor 24""",2,1498845.0,1049191.5
+282,18/03/2026,Medellín,Electrónica,Audífonos Bluetooth,1,784832.0,549382.4
+283,14/04/2026,Barranquilla,Computación,"Monitor 24""",8,1513852.0,1059696.4
+284,12/06/2026,Cali,Hogar,Licuadora,7,179257.0,125479.9
+285,04/03/2026,Cartagena,Hogar,Aspiradora,6,163507.0,114454.9
+286,28/05/2026,Barranquilla,Hogar,Licuadora,1,230395.0,161276.5
+287,30/05/2026,Bogotá,Electrónica,Barra de Sonido,6,770953.0,539667.1
+288,30/04/2026,Medellín,Computación,"Monitor 24""",4,1540874.0,1078611.8
+289,29/06/2026,Cartagena,Electrónica,Audífonos Bluetooth,1,757813.0,530469.1
+290,21/04/2026,Cali,Computación,Disco Duro 1TB,7,1494569.0,1046198.2999999999
+291,23/06/2026,Barranquilla,Accesorios,Mouse Inalámbrico,1,89186.0,62430.2
+292,21/05/2026,Cartagena,Electrónica,Audífonos Bluetooth,4,800975.0,560682.5
+293,10/05/2026,Barranquilla,Computación,"Monitor 24""",6,1527258.0,1069080.5999999999
+294,27/01/2026,Barranquilla,Computación,Laptop HP,8,1547883.0,1083518.0999999999
+295,21/01/2026,Cali,Computación,Laptop HP,4,1498901.0,1049230.7
+296,27/05/2026,Cali,Electrónica,"Smart TV 55""",1,762857.0,533999.9
+297,04/05/2026,Medellín,Accesorios,Cable HDMI,3,26431.0,18501.699999999997
+298,25/01/2026,Barranquilla,Hogar,Licuadora,8,171563.0,120094.09999999999
+299,23/06/2026,Cartagena,Electrónica,"Smart TV 55""",5,758711.0,531097.7
+300,20/03/2026,Medellín,Computación,"Monitor 24""",4,1489110.0,1042376.9999999999
+301,11/05/2026,Barranquilla,Electrónica,"Smart TV 55""",3,765251.0,535675.7
+302,15/02/2026,Bogotá,Computación,Laptop HP,4,1484531.0,1039171.7
+303,09/01/2026,Barranquilla,Accesorios,Mouse Inalámbrico,6,5109.0,3576.2999999999997
+304,27/04/2026,Cartagena,Accesorios,Cable HDMI,1,26589.0,18612.3
+305,05/03/2026,Cali,Accesorios,Teclado Mecánico,9,64288.0,45001.6
+306,12/04/2026,Cali,Electrónica,Audífonos Bluetooth,8,825304.0,577712.7999999999
+307,25/05/2026,Barranquilla,Hogar,Cafetera,4,185488.0,129841.59999999999
+308,17/06/2026,Barranquilla,Hogar,Licuadora,1,199153.0,139407.09999999998
+309,02/02/2026,Bogotá,Electrónica,"Smart TV 55""",4,806985.0,564889.5
+310,30/05/2026,Medellín,Computación,"Monitor 24""",2,1518577.0,1063003.9
+311,16/04/2026,Cali,Computación,Laptop HP,3,1499786.0,1049850.2
+312,14/05/2026,Bogotá,Electrónica,Barra de Sonido,7,776015.0,543210.5
+313,10/02/2026,Barranquilla,Accesorios,Teclado Mecánico,4,13629.0,9540.3
+314,21/04/2026,Cali,Computación,Disco Duro 1TB,4,1548511.0,1083957.7
+315,12/05/2026,Medellín,Accesorios,Teclado Mecánico,3,56446.0,39512.2
+316,10/02/2026,Cali,Hogar,Licuadora,2,230885.0,161619.5
+317,12/01/2026,Bogotá,Computación,Laptop HP,3,1476745.0,1033721.4999999999
+318,27/05/2026,Barranquilla,Computación,"Monitor 24""",8,1478380.0,1034865.9999999999
+319,29/04/2026,Cali,Electrónica,Audífonos Bluetooth,2,825717.0,578001.8999999999
+320,26/05/2026,Cartagena,Computación,"Monitor 24""",8,1452920.0,1017043.9999999999
+321,28/02/2026,Cali,Computación,"Monitor 24""",3,1495500.0,1046849.9999999999
+322,03/04/2026,Bogotá,Accesorios,Cable HDMI,7,30027.0,21018.899999999998
+323,18/02/2026,Medellín,Accesorios,Mouse Inalámbrico,8,74131.0,51891.7
+324,06/02/2026,Barranquilla,Hogar,Licuadora,8,230818.0,161572.59999999998
+325,06/04/2026,Cartagena,Electrónica,Barra de Sonido,2,772015.0,540410.5
+326,07/03/2026,Barranquilla,Computación,"Monitor 24""",6,1495350.0,1046744.9999999999
+327,19/06/2026,Medellín,Computación,Disco Duro 1TB,6,1536652.0,1075656.4
+328,12/01/2026,Medellín,Computación,Laptop HP,8,1534878.0,1074414.5999999999
+329,09/04/2026,Medellín,Accesorios,Teclado Mecánico,2,33142.0,23199.399999999998
+330,06/02/2026,Cartagena,Electrónica,Barra de Sonido,9,785133.0,549593.1
+331,01/03/2026,Bogotá,Electrónica,Audífonos Bluetooth,4,819350.0,573545.0
+332,11/03/2026,Bogotá,Electrónica,Audífonos Bluetooth,9,817649.0,572354.2999999999
+333,12/06/2026,Bogotá,Electrónica,"Smart TV 55""",8,836475.0,585532.5
+334,13/06/2026,Cali,Electrónica,Audífonos Bluetooth,3,783397.0,548377.9
+335,14/01/2026,Cartagena,Hogar,Licuadora,9,192240.0,134568.0
+336,13/05/2026,Barranquilla,Hogar,Aspiradora,1,232495.0,162746.5
+337,28/04/2026,Cali,Hogar,Cafetera,5,201886.0,141320.19999999998
+338,14/06/2026,Barranquilla,Electrónica,"Smart TV 55""",8,833310.0,583317.0
+339,14/05/2026,Cartagena,Hogar,Aspiradora,4,170337.0,119235.9
+340,19/03/2026,Cartagena,Accesorios,Mouse Inalámbrico,4,281.0,196.7
+341,29/01/2026,Cali,Electrónica,Audífonos Bluetooth,6,826260.0,578382.0
+342,28/02/2026,Bogotá,Electrónica,"Smart TV 55""",3,783997.0,548797.9
+343,12/01/2026,Medellín,Accesorios,Mouse Inalámbrico,8,65661.0,45962.7
+344,19/02/2026,Cali,Electrónica,"Smart TV 55""",2,759110.0,531377.0
+345,21/06/2026,Cartagena,Accesorios,Cable HDMI,4,1969.0,1378.3
+346,04/05/2026,Cartagena,Computación,"Monitor 24""",1,1473196.0,1031237.2
+347,06/04/2026,Medellín,Accesorios,Mouse Inalámbrico,1,47414.0,33189.799999999996
+348,29/04/2026,Medellín,Accesorios,Cable HDMI,2,28625.0,20037.5
+349,25/05/2026,Bogotá,Accesorios,Cable HDMI,8,37208.0,26045.6
+350,15/02/2026,Bogotá,Hogar,Cafetera,3,229134.0,160393.8
+351,22/05/2026,Bogotá,Electrónica,"Smart TV 55""",2,767087.0,536960.9
+352,04/03/2026,Bogotá,Electrónica,"Smart TV 55""",9,822460.0,575722.0
+353,14/03/2026,Bogotá,Electrónica,"Smart TV 55""",4,779165.0,545415.5
+354,12/05/2026,Medellín,Accesorios,Cable HDMI,2,96652.0,67656.4
+355,23/01/2026,Cali,Computación,Laptop HP,1,1451367.0,1015956.8999999999
+356,23/02/2026,Cartagena,Computación,Laptop HP,1,1477723.0,1034406.1
+357,23/05/2026,Barranquilla,Electrónica,Audífonos Bluetooth,9,833360.0,583352.0
+358,18/02/2026,Cali,Hogar,Cafetera,6,213449.0,149414.3
+359,11/01/2026,Medellín,Computación,"Monitor 24""",2,1527576.0,1069303.2
+360,03/01/2026,Medellín,Electrónica,Barra de Sonido,6,842059.0,589441.2999999999
+361,27/04/2026,Bogotá,Electrónica,Barra de Sonido,5,831889.0,582322.2999999999
+362,17/02/2026,Barranquilla,Electrónica,Audífonos Bluetooth,4,823770.0,576639.0
+363,25/06/2026,Medellín,Computación,"Monitor 24""",5,1483174.0,1038221.7999999999
+364,17/04/2026,Cartagena,Computación,Disco Duro 1TB,9,1458906.0,1021234.2
+365,20/02/2026,Cartagena,Computación,Laptop HP,6,1487650.0,1041354.9999999999
+366,03/02/2026,Barranquilla,Accesorios,Mouse Inalámbrico,5,93747.0,65622.9
+367,27/01/2026,Barranquilla,Electrónica,Audífonos Bluetooth,3,804691.0,563283.7
+368,07/06/2026,Bogotá,Accesorios,Teclado Mecánico,4,86365.0,60455.49999999999
+369,07/01/2026,Cartagena,Computación,"Monitor 24""",7,1539022.0,1077315.4
+370,25/02/2026,Cartagena,Electrónica,Barra de Sonido,8,774611.0,542227.7
+371,25/03/2026,Bogotá,Hogar,Licuadora,8,192668.0,134867.6
+372,16/04/2026,Cartagena,Computación,Disco Duro 1TB,7,1515429.0,1060800.3
+373,28/04/2026,Barranquilla,Electrónica,Barra de Sonido,9,802249.0,561574.2999999999
+374,09/01/2026,Medellín,Computación,"Monitor 24""",9,1525388.0,1067771.5999999999
+375,19/06/2026,Medellín,Hogar,Cafetera,5,205826.0,144078.19999999998
+376,10/04/2026,Medellín,Hogar,Aspiradora,9,215681.0,150976.69999999998
+377,27/05/2026,Bogotá,Hogar,Licuadora,7,214174.0,149921.8
+378,18/02/2026,Bogotá,Computación,"Monitor 24""",7,1530532.0,1071372.4
+379,30/05/2026,Cali,Hogar,Cafetera,7,173711.0,121597.7
+380,11/01/2026,Cartagena,Accesorios,Mouse Inalámbrico,9,7421.0,5194.7
+381,02/06/2026,Cartagena,Accesorios,Cable HDMI,2,94018.0,65812.59999999999
+382,11/02/2026,Bogotá,Accesorios,Mouse Inalámbrico,1,55754.0,39027.799999999996
+383,24/01/2026,Cali,Hogar,Licuadora,4,167625.0,117337.49999999999
+384,12/04/2026,Cartagena,Accesorios,Cable HDMI,4,73379.0,51365.299999999996
+385,11/05/2026,Cali,Electrónica,"Smart TV 55""",6,818008.0,572605.6
+386,13/01/2026,Barranquilla,Electrónica,Barra de Sonido,5,818011.0,572607.7
+387,27/01/2026,Medellín,Hogar,Cafetera,3,195113.0,136579.1
+388,03/01/2026,Medellín,Accesorios,Teclado Mecánico,7,19201.0,13440.699999999999
+389,12/04/2026,Medellín,Electrónica,Audífonos Bluetooth,7,803363.0,562354.1
+390,08/01/2026,Barranquilla,Accesorios,Teclado Mecánico,5,42828.0,29979.6
+391,31/01/2026,Medellín,Computación,Laptop HP,9,1518619.0,1063033.3
+392,25/05/2026,Cartagena,Hogar,Aspiradora,7,205922.0,144145.4
+393,14/04/2026,Barranquilla,Accesorios,Mouse Inalámbrico,8,62711.0,43897.7
+394,18/04/2026,Cartagena,Electrónica,"Smart TV 55""",4,835957.0,585169.8999999999
+395,30/05/2026,Bogotá,Accesorios,Cable HDMI,5,76559.0,53591.299999999996
+396,07/02/2026,Cartagena,Hogar,Licuadora,4,155782.0,109047.4
+397,24/04/2026,Bogotá,Electrónica,Barra de Sonido,5,785585.0,549909.5
+398,16/03/2026,Medellín,Computación,"Monitor 24""",4,1514977.0,1060483.9
+399,24/02/2026,Cali,Accesorios,Cable HDMI,6,70971.0,49679.7
+400,11/04/2026,Barranquilla,Hogar,Licuadora,1,162329.0,113630.29999999999
+401,15/06/2026,Cali,Accesorios,Mouse Inalámbrico,8,45033.0,31523.1
+402,07/06/2026,Cali,Accesorios,Teclado Mecánico,7,95155.0,66608.5
+403,14/01/2026,Cartagena,Electrónica,Audífonos Bluetooth,3,756721.0,529704.7
+404,01/04/2026,Medellín,Accesorios,Cable HDMI,4,55249.0,38674.299999999996
+405,10/01/2026,Bogotá,Electrónica,Barra de Sonido,6,779984.0,545988.7999999999
+406,13/06/2026,Bogotá,Computación,"Monitor 24""",6,1523965.0,1066775.5
+407,05/05/2026,Cali,Hogar,Aspiradora,9,173429.0,121400.29999999999
+408,25/01/2026,Medellín,Electrónica,"Smart TV 55""",8,767347.0,537142.9
+409,25/01/2026,Barranquilla,Computación,Laptop HP,4,1502188.0,1051531.5999999999
+410,01/03/2026,Cartagena,Computación,"Monitor 24""",2,1542822.0,1079975.4
+411,31/01/2026,Cali,Computación,Laptop HP,2,1547033.0,1082923.0999999999
+412,30/03/2026,Cali,Accesorios,Teclado Mecánico,2,46332.0,32432.399999999998
+413,08/06/2026,Bogotá,Hogar,Aspiradora,7,209474.0,146631.8
+414,17/05/2026,Bogotá,Computación,Laptop HP,3,1456406.0,1019484.2
+415,21/03/2026,Barranquilla,Hogar,Cafetera,4,249942.0,174959.4
+416,09/02/2026,Barranquilla,Electrónica,"Smart TV 55""",4,818828.0,573179.6
+417,21/02/2026,Medellín,Hogar,Licuadora,5,182371.0,127659.7
+418,03/03/2026,Cali,Hogar,Cafetera,7,246410.0,172487.0
+419,02/04/2026,Cartagena,Accesorios,Teclado Mecánico,6,69252.0,48476.399999999994
+420,10/05/2026,Cartagena,Accesorios,Cable HDMI,6,73294.0,51305.799999999996
+421,29/05/2026,Medellín,Accesorios,Cable HDMI,8,5542.0,3879.3999999999996
+422,13/05/2026,Cartagena,Electrónica,"Smart TV 55""",2,806532.0,564572.3999999999
+423,23/03/2026,Barranquilla,Electrónica,"Smart TV 55""",1,803744.0,562620.7999999999
+424,19/05/2026,Barranquilla,Computación,Laptop HP,7,1479300.0,1035509.9999999999
+425,26/01/2026,Barranquilla,Accesorios,Teclado Mecánico,2,21223.0,14856.099999999999
+426,29/06/2026,Medellín,Electrónica,Barra de Sonido,5,814041.0,569828.7
+427,21/05/2026,Bogotá,Electrónica,"Smart TV 55""",8,783160.0,548212.0
+428,18/06/2026,Barranquilla,Electrónica,Barra de Sonido,1,839097.0,587367.8999999999
+429,27/02/2026,Barranquilla,Hogar,Cafetera,7,242961.0,170072.69999999998
+430,08/01/2026,Bogotá,Computación,"Monitor 24""",1,1457099.0,1019969.2999999999
+431,28/03/2026,Cali,Hogar,Cafetera,5,180111.0,126077.7
+432,21/06/2026,Cartagena,Electrónica,Audífonos Bluetooth,8,820476.0,574333.2
+433,28/03/2026,Cartagena,Computación,Laptop HP,3,1539570.0,1077699.0
+434,01/06/2026,Barranquilla,Electrónica,"Smart TV 55""",5,844439.0,591107.2999999999
+435,27/02/2026,Barranquilla,Computación,"Monitor 24""",4,1514027.0,1059818.9
+436,20/02/2026,Cartagena,Computación,"Monitor 24""",5,1526295.0,1068406.5
+437,05/03/2026,Barranquilla,Accesorios,Teclado Mecánico,1,17630.0,12341.0
+438,16/05/2026,Bogotá,Hogar,Cafetera,2,246718.0,172702.59999999998
+439,27/06/2026,Barranquilla,Computación,Laptop HP,4,1476189.0,1033332.2999999999
+440,15/04/2026,Medellín,Electrónica,"Smart TV 55""",7,836205.0,585343.5
+441,24/04/2026,Barranquilla,Accesorios,Mouse Inalámbrico,8,17153.0,12007.099999999999
+442,28/04/2026,Barranquilla,Electrónica,"Smart TV 55""",2,807866.0,565506.2
+443,10/01/2026,Medellín,Computación,Laptop HP,7,1495000.0,1046499.9999999999
+444,02/06/2026,Barranquilla,Hogar,Aspiradora,9,227425.0,159197.5
+445,22/01/2026,Barranquilla,Hogar,Licuadora,5,226971.0,158879.69999999998
+446,01/02/2026,Bogotá,Computación,"Monitor 24""",8,1511332.0,1057932.4
+447,02/05/2026,Bogotá,Hogar,Licuadora,9,193950.0,135765.0
+448,18/01/2026,Cartagena,Electrónica,"Smart TV 55""",8,848605.0,594023.5
+449,14/04/2026,Barranquilla,Accesorios,Cable HDMI,6,58005.0,40603.5
+450,30/03/2026,Cartagena,Accesorios,Mouse Inalámbrico,2,13057.0,9139.9
+451,29/01/2026,Barranquilla,Electrónica,Audífonos Bluetooth,2,794638.0,556246.6
+452,31/05/2026,Cali,Hogar,Cafetera,5,217260.0,152082.0
+453,07/04/2026,Cali,Hogar,Aspiradora,7,201612.0,141128.4
+454,30/01/2026,Bogotá,Computación,Disco Duro 1TB,5,1479806.0,1035864.2
+455,16/05/2026,Bogotá,Accesorios,Teclado Mecánico,5,49666.0,34766.2
+456,12/05/2026,Medellín,Hogar,Aspiradora,2,218056.0,152639.19999999998
+457,10/01/2026,Cali,Electrónica,Barra de Sonido,2,781656.0,547159.2
+458,22/04/2026,Barranquilla,Electrónica,"Smart TV 55""",4,797701.0,558390.7
+459,31/03/2026,Barranquilla,Accesorios,Teclado Mecánico,1,63437.0,44405.899999999994
+460,14/01/2026,Cartagena,Electrónica,Barra de Sonido,9,765379.0,535765.2999999999
+461,16/03/2026,Cali,Hogar,Aspiradora,5,232617.0,162831.9
+462,12/05/2026,Barranquilla,Computación,Laptop HP,4,1468313.0,1027819.1
+463,24/01/2026,Medellín,Accesorios,Cable HDMI,5,73445.0,51411.5
+464,23/02/2026,Cartagena,Hogar,Aspiradora,6,214429.0,150100.3
+465,04/01/2026,Cartagena,Hogar,Cafetera,4,209664.0,146764.8
+466,29/04/2026,Cali,Computación,Laptop HP,8,1498868.0,1049207.5999999999
+467,21/03/2026,Barranquilla,Accesorios,Cable HDMI,4,36727.0,25708.899999999998
+468,24/01/2026,Medellín,Accesorios,Teclado Mecánico,3,63646.0,44552.2
+469,01/03/2026,Cali,Computación,Laptop HP,6,1499815.0,1049870.5
+470,19/04/2026,Medellín,Hogar,Licuadora,6,163428.0,114399.59999999999
+471,08/06/2026,Cartagena,Hogar,Aspiradora,4,155469.0,108828.29999999999
+472,23/04/2026,Medellín,Computación,Laptop HP,4,1500288.0,1050201.5999999999
+473,16/02/2026,Barranquilla,Computación,Laptop HP,6,1525564.0,1067894.8
+474,10/06/2026,Barranquilla,Electrónica,Barra de Sonido,4,780447.0,546312.9
+475,16/02/2026,Barranquilla,Computación,Disco Duro 1TB,7,1464472.0,1025130.3999999999
+476,31/03/2026,Bogotá,Hogar,Cafetera,4,245804.0,172062.8
+477,18/05/2026,Cartagena,Accesorios,Cable HDMI,1,6397.0,4477.9
+478,28/04/2026,Bogotá,Electrónica,Barra de Sonido,3,773284.0,541298.7999999999
+479,27/05/2026,Medellín,Accesorios,Cable HDMI,3,94788.0,66351.59999999999
+480,03/04/2026,Barranquilla,Hogar,Cafetera,1,175279.0,122695.29999999999
+481,05/01/2026,Medellín,Hogar,Licuadora,4,179309.0,125516.29999999999
+482,08/02/2026,Bogotá,Accesorios,Cable HDMI,8,68920.0,48244.0
+483,10/04/2026,Barranquilla,Accesorios,Mouse Inalámbrico,9,7710.0,5397.0
+484,25/03/2026,Barranquilla,Hogar,Cafetera,5,230797.0,161557.9
+485,01/06/2026,Barranquilla,Hogar,Licuadora,7,150162.0,105113.4
+486,14/01/2026,Medellín,Hogar,Licuadora,9,182972.0,128080.4
+487,11/03/2026,Cartagena,Hogar,Cafetera,4,209063.0,146344.09999999998
+488,17/04/2026,Medellín,Hogar,Licuadora,9,165892.0,116124.4
+489,27/06/2026,Medellín,Electrónica,Audífonos Bluetooth,8,798330.0,558831.0
+490,28/05/2026,Cartagena,Hogar,Aspiradora,8,172669.0,120868.29999999999
+491,26/02/2026,Cartagena,Electrónica,Barra de Sonido,2,778228.0,544759.6
+492,11/05/2026,Cartagena,Computación,"Monitor 24""",8,1476928.0,1033849.6
+493,27/05/2026,Cartagena,Computación,Laptop HP,9,1456588.0,1019611.6
+494,18/06/2026,Cartagena,Electrónica,Barra de Sonido,4,841006.0,588704.2
+495,12/03/2026,Bogotá,Accesorios,Cable HDMI,1,75415.0,52790.5
+496,02/03/2026,Barranquilla,Electrónica,Barra de Sonido,9,805718.0,564002.6
+497,27/03/2026,Medellín,Electrónica,"Smart TV 55""",6,800669.0,560468.2999999999
+498,08/04/2026,Cartagena,Electrónica,Barra de Sonido,5,833457.0,583419.8999999999
+499,22/01/2026,Medellín,Hogar,Cafetera,2,226943.0,158860.09999999998
+500,22/04/2026,Barranquilla,Computación,Laptop HP,8,1507326.0,1055128.2
+51,12/06/2026,Bogotá,Hogar,Cafetera,4,240272.0,168190.4
+61,15/02/2026,Cali,Electrónica,Audífonos Bluetooth,1,815726.0,571008.2
